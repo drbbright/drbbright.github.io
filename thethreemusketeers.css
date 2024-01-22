@@ -1,0 +1,24 @@
+
+/css
+h1{
+    color: blueviolet;
+}
+/* body {text-align: center;} */
+
+#gameboard {
+    display: flex;
+    justify-content: center;
+    font-size: 75px;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3fbbda11-9f89-44f4-a861-e20ad6e3a5c5/dfaw9et-deb57b8d-102b-4608-af02-78aae53a7cc3.jpg/v1/fit/w_750,h_750,q_70,strp/red_eyed_tree_frog_by_jemichi_dfaw9et-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvM2ZiYmRhMTEtOWY4OS00NGY0LWE4NjEtZTIwYWQ2ZTNhNWM1XC9kZmF3OWV0LWRlYjU3YjhkLTEwMmItNDYwOC1hZjAyLTc4YWFlNTNhN2NjMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mvo-JEdygDn-nt6EB4avPpMbKTRubx9rIhmOij_Lq0Y);
+              background-repeat: no-repeat;
+            background-size: 300px;
+            background-position: center;
+       }
+
+.box {
+    border: solid black 2px;
+    width: 92px;
+    text-align: center;
+
+
+}
